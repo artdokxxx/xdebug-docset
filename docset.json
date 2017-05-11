@@ -1,18 +1,5 @@
 {
     "name": "Xdebug",
-    "package": "xdebug",
-    "version": "2017.05.12",
-    "archive": "xdebug.tzg",
-    "author": {
-        "name": "Artem Leontiev",
-        "link": "https://github.com/artdokxxx/"
-    },
-    "icon32x32": "icon.png",
-    "ExternalURL": "https://xdebug.org/docs/all"
-}
-
-{
-    "name": "Xdebug",
     "version": "2017.05.12",
     "archive": "xdebug.tgz",
     "author": {
